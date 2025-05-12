@@ -1,11 +1,16 @@
+---
+description: Economy feature
+---
+
 # Leveling
 
-The leveling system is a feature used for the economy system in Omegabuild. The plugin is written by SpicyCombo, and as said in the name, you are to level up when you reach the sufficient amount of omegas soon as you type the command **/Level up**.
+The **leveling system** is part of the economy system. By gaining XP on the server, which is earned by playing different game modes, the player can level up based on the caps of XP set for each level.
 
-At each level, you are to receive perks that will affect your usage of **/claim** and **/dailybonus**. The multiplier of your earnings in many minigames and events will be raised, and the max bet you may have in Casino Games are also raised. You may check what perks are available to you using **/level perks \[level]** at anytime.
+Each time when a player levels up, a new perk is gained, which is displayed in **/XP perks**. When a player reaches level 100, they are no longer allowed to level up, but are recommended to prestige to start anew, which resets their economy progress and gain new perks. (See [prestige.md](../prestige.md "mention"))
 
-To see your own level, you may type **/level**. To see the level of others, type **/level \[player name]**. The command will show the amount of omegas needed to level up, and the amount of omegas that you or the other player has.
+TODO: Leveling perks
 
-If you are a staff member, and you hold the rank enough as said in **/help level**, you may use **/level set \[player] \[level]** to change another player's level. Upon doing so, it will also notify the player by **/Inbox** if they are offline, or by directly displaying a message to them.
+### Command Help
 
-\
+
+

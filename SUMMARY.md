@@ -14,3 +14,7 @@
 ## Economy
 
 * [Leveling](economy/leveling.md)
+
+***
+
+* [Prestige](prestige.md)

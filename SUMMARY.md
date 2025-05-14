@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Omegabuild Wiki](README.md)
+* [Player Wiki](README.md)
 
 ## Gamemodes
 
